@@ -1,0 +1,22 @@
+{
+  "name": "Avaya Styles Documentation",
+  "version": "0.0.1",
+  "description": "Styles Documentation",
+  "main": "index.js",
+  "authors": {
+    "name": "Gustavo",
+    "email": "avila111@avaya.com"
+  },
+  "repository": "https://github.com/gustavoavila111/Avaya-Styles-Documentation.git/Avaya Styles Documentation",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.2"
+  }
+}
