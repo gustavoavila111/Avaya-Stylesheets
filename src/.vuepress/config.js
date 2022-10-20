@@ -5,7 +5,7 @@ module.exports = {
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
   dest: 'docs',
-  base: '/Avaya-Styles-Documentation/',
+  base: '/Avaya-Stylesheets/',
   title: 'Avaya Styles Documentation',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
